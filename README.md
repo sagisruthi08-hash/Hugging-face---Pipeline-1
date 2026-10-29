@@ -136,7 +136,7 @@ BSc Computer Science with Artificial Intelligence
 This project is intended for educational and learning purposes. Refer to the individual pretrained models' licenses for their usage and redistribution conditions.
 
 
-### ❤️ Ma, two important things before uploading to GitHub
+
 
 **1. Create `requirements.txt`**
 
